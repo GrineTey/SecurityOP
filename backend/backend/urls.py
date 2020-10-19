@@ -15,7 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-
+"""Tentar adicionar no urlpatters a rota do tema"""
 urlpatterns = [
     path('admin/', admin.site.urls),
 ]
