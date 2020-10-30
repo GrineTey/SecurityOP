@@ -23,9 +23,9 @@
                         <span class="text-danger">{{ msg }}</span>
                       {% else %}
                         <br />
-                        OR <a href={% run 'register' %} >Crie seu usuário</a>
+                        OR <a href={% url 'register' %} >Crie seu usuário</a>
 
-                      {% endif %}  
+                      {% endif %}
                   </h6>
                 </div>
 
@@ -35,7 +35,7 @@
 
                       <div class="col-md-3 px-md-1">
                         <div class="form-group">
-                          <label>Username</label>
+                          <label>Usuario</label>
                           {{ form.username }}
                         </div>
                       </div>
