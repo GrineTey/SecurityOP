@@ -21,7 +21,7 @@
 
 ## Demo
 
-> Para autenticar use as credenciais de testes ***test / ApS12_ZZs8*** ou crie um novo usuario em [Pagina de registro](https://creativetim-django-dashboard-black-pro.appseed.us/register/).
+> Para autenticar use as credenciais de testes ***root / blastoise*** ou crie um novo usuario em [Pagina de registro](https://creativetim-django-dashboard-black-pro.appseed.us/register/).
 
 - **SecurityOP** [Pagina de Login]()
 
